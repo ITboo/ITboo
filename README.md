@@ -24,10 +24,16 @@ Tools:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-Git-F05032?style=flat-badge&logo=git&logoColor=white)
 
+Testing:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 Code Quality:
 
 ![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=for-the-badge)
+
+Design:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## :star: I’m currently learning 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
