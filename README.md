@@ -1,47 +1,288 @@
-### Hi there 👋
-Nice to meet you. 
+<h1 align="left">Hi there! I'm Hanna Parfenava and I'm a software web engineer from Belarus</h1>
 
-## :woman_technologist: Skills
+<br>
+<h2> 📫 Contact me via:  </h2>
 
-![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![TS](https://img.shields.io/badge/-TypeScript-white?logo=typescript&logoColor=blue&style=for-the-badge)
 
-FRONT-END:
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:)&emsp;
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/)&emsp;
+[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/)
 
-![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<h2 align="left" id="stack"> Tech stack</h2>
 
-BACK-END:
+> General
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>javascript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>typescript
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+         <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+      </a>
+      <br>figma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
+      </a>
+      <br>yarn
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>github
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>docker
+    </td>
+  </tr> 
+</table>
 
-TOOLS:
+> Testing
 
-![Vite](https://img.shields.io/badge/-vite-white?logo=vite&logoColor=purple&style=for-the-badge)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-Git-F05032?style=flat-badge&logo=git&logoColor=white)
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack">
+        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
+      </a>
+      <br>rt library
+    </td>
+        <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>storybook
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack">
+        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
+      </a>
+      <br>cypress
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+      </a>
+      <br>playwright
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack">
+        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
+      </a>
+      <br>puppeteer
+    </td>
+  </tr> 
+</table>
 
-TESTING:
+> Code quality
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+      </a>
+      <br>eslint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>prettier
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
+      </a>
+      <br>stylelint
+    </td>
+  </tr> 
+</table>
 
-Code Quality:
+> Frontend
 
-![Eslint](https://img.shields.io/badge/-eslint-white?logo=eslint&logoColor=purple&style=for-the-badge)
-![Prettier](https://img.shields.io/badge/-prettier-white?logo=prettier&logoColor=purple&style=for-the-badge)
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#itboo-stack" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+ <td align="center" width="110" height="90">
+      <a href="#itboo-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
+      </a>
+      <br>Mobx
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center"  width="96">
+      <a href="#itboo-stack">
+        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr> 
+    <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
+      </a>
+      <br>Apollo
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+</table>
 
-Design:
+> Mobile
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+  </tr> 
+</table>
 
-## :star: I’m currently learning 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+> Backend
 
-## :star: I’m currently working on
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
+      </a>
+      <br>Nest JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#itboo-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#itboo-stack" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+  </tr> 
+</table>
+
+> Other
 ...
 
+<br>
