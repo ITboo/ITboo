@@ -1,12 +1,6 @@
 <h1 align="left">Hi there! I'm Hanna Parfenava and I'm a software web engineer from Belarus</h1>
 
 <br>
-<h2> 📫 Contact me via:  </h2>
-
-
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:)&emsp;
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/)&emsp;
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/)
 
 <h2 align="left" id="stack"> Tech stack</h2>
 
@@ -87,29 +81,11 @@
       </a>
       <br>Jest
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack">
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
-      </a>
-      <br>rt library
-    </td>
-        <td align="center" width="110" height="90"> 
+       <td align="center" width="110" height="90"> 
       <a href="#itboo-stack" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
       <br>storybook
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
-      </a>
-      <br>cypress
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
-      </a>
-      <br>playwright
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#itboo-stack">
@@ -167,38 +143,13 @@
       </a>
       <br>Redux
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
      <td align="center" width="110" height="90">
       <a href="#itboo-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
       <br>MUI
     </td>
-   <td align="center"  width="96">
-      <a href="#itboo-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#itboo-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
   </tr> 
-    <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="#itboo-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
@@ -226,60 +177,17 @@
   </tr> 
 </table>
 
-> Mobile
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#itboo-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-  </tr> 
-</table>
-
 > Backend
 
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#itboo-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#itboo-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#itboo-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#itboo-stack" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-  </tr> 
+      </tr> 
 </table>
 
 > Other
